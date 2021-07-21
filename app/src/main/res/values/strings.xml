@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework_11</string>
+    <string name="exclamation">ВНИМАНИЕ!!!</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="dunno">Назад</string>
+    <string name="Диалог">Диалог</string>
+</resources>
